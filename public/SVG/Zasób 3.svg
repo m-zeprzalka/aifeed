@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 589.84 237.37">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #00db6d;
+        font-family: ThatThatNewPixel-ItalicRound, 'That That New Pixel';
+        font-style: italic;
+      }
+
+      .cls-2 {
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        font-family: ThatThatNewPixel-Square, 'That That New Pixel';
+      }
+
+      .cls-4 {
+        font-size: 204.99px;
+      }
+    </style>
+  </defs>
+  <g id="Warstwa_1-2" data-name="Warstwa_1">
+    <text class="cls-4" transform="translate(0 179.98) scale(1.24 1)"><tspan class="cls-1" x="0" y="0">a</tspan><tspan class="cls-2" x="95.93" y="0">i</tspan><tspan class="cls-3" x="168.09" y="0">feed</tspan></text>
+  </g>
+</svg>
